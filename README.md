@@ -93,7 +93,7 @@ Please see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
 - GitHub Issues – for bugs and feature requests
 - Discussions – coming soon
 - Contact – [Gus Zhang](mailto://cheng.zhang@manchester.ac.uk), The Unviversity of Manchester, United Kingdom
-- Contact - [Ali Sep](mailto://ali.sep@innovoltive.com), Innovoltive, United States of America
+- Contact - [Alihossein Sepahvand](mailto://ali.sep@innovoltive.com), Innovoltive, United States of America
 
 ---
 
